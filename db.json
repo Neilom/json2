@@ -1,0 +1,27 @@
+{
+    "items":{
+        "items": [
+            {
+                "variant": {
+                    "objectId": "s-1-p-4",
+                    "externalId": "4",
+                    "erpId": "PTM_202307121146",
+                    "name": "G",
+                    "unitMultiplier": 1,
+                    "visible": true,
+                    "price": 149.7,
+                    "salePrice": 149.7,
+                    "quantity": 90,
+                    "sellerId": "1",
+                    "sellerName": "OmniChat Tecnologia Ltda"
+                },
+                "quantity": 1,
+                "detail": "",
+                "price": 149.7,
+                "product": "G",
+                "productReference": "PTM_202307121146",
+                "externalProduct": true
+            }
+        ]
+    }
+}
